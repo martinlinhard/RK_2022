@@ -1,0 +1,12 @@
+\contentsline {part}{\numberline {I}Grundlagen der Ersten Hilfe}{5}{}%
+\contentsline {chapter}{\numberline {1}Notruf absetzen}{7}{}%
+\contentsline {section}{\numberline {1.1}Notrufnummern}{7}{}%
+\contentsline {section}{\numberline {1.2}Allgemeines}{7}{}%
+\contentsline {chapter}{\numberline {2}Basismaßnahmen}{9}{}%
+\contentsline {chapter}{\numberline {3}Wegziehen / Umdrehen}{11}{}%
+\contentsline {section}{\numberline {3.1}Wegziehen}{11}{}%
+\contentsline {section}{\numberline {3.2}Umdrehen}{11}{}%
+\contentsline {section}{\numberline {3.3}GAMS-Regel}{11}{}%
+\contentsline {section}{\numberline {3.4}Zusammenfassung}{12}{}%
+\contentsline {part}{\numberline {II}Leben Retten}{13}{}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
